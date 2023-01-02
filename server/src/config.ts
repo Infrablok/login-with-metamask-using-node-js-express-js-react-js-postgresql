@@ -6,7 +6,7 @@ export const config = {
 	secret: 'ABCDEF',
 	HOST: "localhost",
 	USER: "postgres",
-	PASSWORD: "Miri@1234",
+	PASSWORD: "Yourpostgrespassword",
 	DB: "web3-login-using-metamask",
 	
 	pool: {
